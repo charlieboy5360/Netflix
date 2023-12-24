@@ -94,7 +94,7 @@ nav button {
     font-weight: 400;
     background-color: rgb(248, 243, 243, 0.021);
     color: white;
-    border: 1px solid white;
+    border: 1px solid grey;
     border-radius: 4px;
     cursor: pointer;
 }
